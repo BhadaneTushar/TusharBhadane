@@ -1,55 +1,120 @@
-👋 Hi, I’m @TusharBhadane  
+👨‍💻 Tushar Bhadane — QA Automation Engineer
+🚀 QA Automation Engineer specializing in Selenium, Playwright, API Testing, and AI-powered testing workflows.
 
-🎯 A passionate Software Test Engineer with 1.9+ years of experience in automation and manual testing in the healthcare domain.
+I focus on building scalable test automation frameworks, improving software quality, and integrating automation with CI/CD pipelines. I also experiment with AI Agents for automated QA workflows to accelerate testing and improve coverage.
 
----
+👋 About Me
+I am a QA Automation Engineer with 2+ years of experience working on enterprise healthcare platforms including EHR, RPM, and Home Care systems.
 
-### 🚀 Technical Skills  
-- **Languages & Scripting:** Java (Core), SQL  
-- **Automation Testing:** Selenium WebDriver (Java), TestNG, Page Object Model (POM)  
-- **API Testing:** REST Assured (Java), Postman  
-- **Testing Types:** Functional, Regression, Integration, Smoke, Sanity, UI, Cross-Browser  
-- **CI/CD & Tools:** JIRA, Git, GitHub  
-- **Database:** MySQL, PostgreSQL  
-- **Agile Methodologies:** Scrum, Sprint Planning  
-- **Others:** JUnit, Maven (for project management)
+My work focuses on:
 
----
+Building scalable automation frameworks
+Automating UI + API testing pipelines
+Reducing regression testing time through parallel execution
+Integrating automation with CI/CD pipelines
+Exploring AI-driven testing using intelligent QA agents
+I have experience collaborating with US clients, Agile teams, and cross-functional developers to deliver reliable and high-quality software.
 
-### 👀 I’m interested in
-- Building scalable **test automation frameworks**  
-- Designing **robust test strategies** for enterprise-level apps  
-- Exploring **DevOps and CI/CD integrations for testing pipelines**  
-- Contributing to **health-tech automation solutions**
+🧠 AI in Testing (My Current Focus)
+I am actively working on building AI-powered QA systems that automate the entire testing lifecycle.
 
----
+🤖 Multi-Agent QA Testing System
+An intelligent QA system where AI agents collaborate to automate testing.
 
-### 🌱 I’m currently learning
-- TypeScript & Playwright  
-- Advanced test optimization and parallel execution strategies  
-- Docker for test environment containers
+Example agents include:
 
----
+Test Planning Agent
+Analyzes requirements and generates test strategies.
+Test Case Generator Agent
+Automatically generates test scenarios from documentation.
+Automation Agent
+Creates automation scripts using frameworks like Playwright or Selenium.
+Execution Agent
+Runs automated tests across environments.
+Bug Analysis Agent
+Analyzes failures and generates detailed bug reports.
+QA Reporting Agent
+Creates test reports and quality insights automatically.
+This approach helps reduce manual work and enables AI-assisted quality engineering.
 
-### 💞️ I’m looking to collaborate on
-- Open-source QA automation frameworks  
-- Healthcare SaaS platform QA enhancements  
-- API automation testing tools and reusable libraries
+🧪 Testing Expertise
+Automation Testing
+Selenium WebDriver (Java)
+Playwright (JavaScript / TypeScript)
+TestNG
+POM (Page Object Model)
+API Testing
+REST Assured
+Postman
+Microservices API validation
+CI/CD & DevOps
+Git
+GitHub Actions
+Allure Reports
+Extent Reports
+Parallel test execution
+Databases
+MySQL
+PostgreSQL
+Testing Types
+Functional Testing
+Regression Testing
+Integration Testing
+API Testing
+Cross-Browser Testing
+Mobile Testing
+🏥 Domain Experience
+Healthcare Platforms
+CalMHSA — Government EHR System
+Automated clinical workflows using Playwright
+Validated microservice APIs using REST Assured
+Ensured healthcare compliance and data integrity
+eAmata — Remote Patient Monitoring Platform
+Automated multi-portal workflows (Provider / Nurse / Patient)
+Executed CI-based regression pipelines
+Validated integrations across healthcare modules
+📂 Featured Projects
+🔹 Selenium Automation Framework
+A scalable POM-based automation framework using Java, Selenium, and TestNG.
 
----
+Features:
 
-### 📫 How to reach me  
-- 📧 Email: tushar.bhadane19@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tusharbhadane19)  
-- ☎️ Phone: +91 7741988974
+Modular framework architecture
+CI/CD integration
+Detailed reporting (Allure / Extent)
+Parallel execution
+🔹 Playwright Automation Framework
+A modern UI automation framework using Playwright + TypeScript.
 
----
+Features:
 
-### 😄 Pronouns: He/Him  
-### ⚡ Fun fact:  
-I love turning complex test cases into elegant Java code and believe in "Test early, test often!" 🔍💻
+Cross-browser testing
+API + UI testing support
+Fast execution
+CI/CD ready
+🔹 AI QA Multi-Agent Testing System
+An experimental project for AI-driven automated QA.
 
-<!---
-TusharBhadane/TusharBhadane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Features:
+
+Requirement analysis using AI
+Auto-generated test cases
+Automated test creation
+AI-powered bug analysis
+Automated QA reporting
+📈 Achievements
+✔ Increased automation coverage to 85%
+✔ Reduced regression testing time by 40–60%
+✔ Built 100+ automated UI and API tests
+✔ Authored 200+ test cases
+✔ Implemented CI/CD automation pipelines
+🌐 Connect With Me
+📧 Email: tushar.bhadane19@gmail.com
+💼 LinkedIn: linkedin.com/in/tusharbhadane19
+📍 Location: Pune, India
+🚀 Current Learning
+AI in Software Testing
+Autonomous QA Agents
+Advanced Playwright Automation
+Scalable Test Architecture
+💡 “Quality is not just testing — it's engineering reliability into software.”
